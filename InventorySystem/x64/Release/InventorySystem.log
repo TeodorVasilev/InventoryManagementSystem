@@ -1,0 +1,10 @@
+﻿  ConsoleInterface.cpp
+  CSVHandler.cpp
+  InventoryService.cpp
+  InventorySystem.cpp
+  Item.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 418 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  InventorySystem.vcxproj -> C:\Users\npc13\Desktop\InventorySystem\InventorySystem\x64\Release\InventorySystem.exe
