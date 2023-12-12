@@ -1,5 +1,9 @@
 # Inventory Management System Documentation
 
+## Overview
+
+The Inventory Management System is a console-based application developed in C++, designed to manage an inventory of items. The system allows users to add, update, delete, and search for items in the inventory. All data is stored in a CSV file, enabling persistent storage and retrieval of inventory data.
+
 ## Getting Started
 
 To start using the Inventory Management System, follow these steps:
@@ -16,11 +20,6 @@ To start using the Inventory Management System, follow these steps:
    - In the `Release` folder, find the `InventorySystem.exe` file.
    - Double-click `InventorySystem.exe` to start the application.
    
-
-## Overview
-
-The Inventory Management System is a console-based application developed in C++, designed to manage an inventory of items. The system allows users to add, update, delete, and search for items in the inventory. All data is stored in a CSV file, enabling persistent storage and retrieval of inventory data.
-
 ## Functionalities
 
 ### 1. Adding an Item
